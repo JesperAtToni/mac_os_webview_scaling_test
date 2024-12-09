@@ -1,0 +1,20 @@
+Launching lib/main.dart on macOS in debug mode...
+Building macOS application...                                   
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:macOS, arch:arm64, id:00006000-001415810E02401E, name:My Mac }
+{ platform:macOS, arch:x86_64, id:00006000-001415810E02401E, name:My Mac }
+✓ Built build/macos/Build/Products/Debug/mac_os_webview_scaling_test.app
+Syncing files to device macOS...                                    38ms
+
+Flutter run key commands.
+r Hot reload. 🔥🔥🔥
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+A Dart VM Service on macOS is available at: http://127.0.0.1:49265/zWMlh4R3UUk=/
+The Flutter DevTools debugger and profiler on macOS is available at: http://127.0.0.1:9101?uri=http://127.0.0.1:49265/zWMlh4R3UUk=/
+2024-12-06 17:37:40.406 mac_os_webview_scaling_test[71334:12257306] WARNING: Secure coding is automatically enabled for restorable state! However, not on all supported macOS versions of this application. Opt-in to secure coding explicitly by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState:.
+Lost connection to device.
